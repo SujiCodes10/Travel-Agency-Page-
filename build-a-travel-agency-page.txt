@@ -1,0 +1,50 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Explore amazing travel opportunities with our exclusive packages.">
+    <title>Travel Agency Plan</title>
+    </head>
+    <body>
+      <main>
+        <h1>Explore Your Next Travel Destination</h1>
+        <p>Discover exciting travel opportunities tailored just for you. Let us help you create unforgettable memories</p>
+        <h2>Packages</h2>
+        <p>We offer a range of travel packages to suit different preferences and group sizes.</p>
+        <ul>
+          <li>
+            <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+           </li>
+           <li>
+              <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a>
+            </li>
+           </ul>
+        <h2>Top Itineraries</h2>
+        <figure>
+              <a href="https://www.freecodecamp.org/learn" target="_blank">
+              <img src="https://via.placeholder.com/200x150" alt="Tropical beach with palm trees">
+              </a>
+        <figcaption>Relax in tropical paradise with our Beach Escape itinerary.</figcaption>
+        </figure>
+        <figure>
+              <a href="https://www.freecodecamp.org/learn" target="_blank">
+              <img src="https://via.placeholder.com/200x150" alt="Mountain landscape with hiking trail">
+              </a>
+         <figcaption>Embark on an adventure with our Mountain Explorer tour.</figcaption>
+                 </figure>
+           <figure>
+                 <a href="https://www.freecodecamp.org/learn" target="_blank">
+                         <img src="https://via.placeholder.com/200x150" alt="Historic city skyline at sunset">
+                  </a>
+                                     <figcaption>Experience culture and history with our City Highlights package.</figcaption>
+                      </figure>
+
+    </main>
+   </body>
+</html>
+      
+
+** end of index.html **
+
